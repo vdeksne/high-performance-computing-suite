@@ -1,0 +1,6 @@
+﻿  Homework14.cpp
+C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\14\Homework14\Homework14.cpp(10,32): warning C4566: character represented by universal-character-name '\u012B' cannot be represented in the current code page (1252)
+C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\14\Homework14\Homework14.cpp(10,32): warning C4566: character represented by universal-character-name '\u013C' cannot be represented in the current code page (1252)
+C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\14\Homework14\Homework14.cpp(39,17): warning C4566: character represented by universal-character-name '\u013C' cannot be represented in the current code page (1252)
+C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\14\Homework14\Homework14.cpp(39,17): warning C4566: character represented by universal-character-name '\u016B' cannot be represented in the current code page (1252)
+  Homework14.vcxproj -> C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\14\Homework14\ARM64\Debug\Homework14.exe

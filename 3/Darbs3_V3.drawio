@@ -1,0 +1,174 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Page-1" id="zePheNPgV6pWqkP0URbe">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-1" target="xswBUyAdOaQ51vsBcZYu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-2" target="xswBUyAdOaQ51vsBcZYu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-2" value="input K, N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-3" target="xswBUyAdOaQ51vsBcZYu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-3" target="xswBUyAdOaQ51vsBcZYu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-11" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-10">
+          <mxGeometry x="-0.1278" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-3" value="Is N &amp;gt; 0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-4" target="xswBUyAdOaQ51vsBcZYu-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="550" />
+              <mxPoint x="140" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-4" value="Kļūda: N jābūt lielākam par 0." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-5" target="xswBUyAdOaQ51vsBcZYu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-5" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Print K&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-12" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-15" target="xswBUyAdOaQ51vsBcZYu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-15" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-16" target="xswBUyAdOaQ51vsBcZYu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-16" value="Input x, N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-17" target="xswBUyAdOaQ51vsBcZYu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-17" value="Y = 0, power = 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-18" target="xswBUyAdOaQ51vsBcZYu-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="550" />
+              <mxPoint x="-260" y="300" />
+              <mxPoint x="-100" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-21" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-20">
+          <mxGeometry x="-0.8388" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-23" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-22">
+          <mxGeometry x="-0.6803" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-18" value="&amp;nbsp;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Vai i &amp;lt;= N?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-24" target="xswBUyAdOaQ51vsBcZYu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-31" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-30">
+          <mxGeometry x="-0.004" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-33" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-32">
+          <mxGeometry x="0.0193" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-24" value="Vai N ir&amp;nbsp;vesels skaitlis?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010.5" y="380" width="179" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-28" target="xswBUyAdOaQ51vsBcZYu-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1370" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-28" value="Kļūda: N jābūt veselam skaitlim" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="439.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xswBUyAdOaQ51vsBcZYu-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="499.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="469.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="720" />
+              <mxPoint x="590" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-38" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-36">
+          <mxGeometry x="-0.7741" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-34" target="xswBUyAdOaQ51vsBcZYu-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-48" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xswBUyAdOaQ51vsBcZYu-44">
+          <mxGeometry x="-0.2444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-34" value="&amp;nbsp;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Vai i &amp;lt;= N?&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="640" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-37" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-42" value="&lt;div&gt;Y += 1 / (x^power)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;power *= 2&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xswBUyAdOaQ51vsBcZYu-43" target="xswBUyAdOaQ51vsBcZYu-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xswBUyAdOaQ51vsBcZYu-43" value="Print Y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="690" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

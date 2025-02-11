@@ -1,0 +1,3 @@
+﻿  Homework11.cpp
+C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\11\Homework11\Homework11.cpp(19,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Homework11.vcxproj -> C:\Mac\Home\Documents\SoftwareEngineering\ProgrammesanasPamati\Homework\11\Homework11\ARM64\Debug\Homework11.exe
